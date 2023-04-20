@@ -1,0 +1,9 @@
+../../include/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+../../include/core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+../main.c:12:6:mts_led_init	8	static
+../main.c:20:6:led_set	8	static
+../main.c:21:6:led_clear	8	static
+../main.c:22:6:led_toggle	8	static
+../main.c:24:6:TIM3_IRQHandler	8	static
+../main.c:42:6:mts_TIM3_init	8	static
+../main.c:80:5:main	8	static
